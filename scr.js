@@ -6,4 +6,4 @@ setInterval(()=>{
     count++;
     views.innerHTML = `${count} views`
 
-},10)  // 1000 milliseconds = 1 second
+},100)  // 1000 milliseconds = 1 second
